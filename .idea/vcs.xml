@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_Chuongtrinhinnoidungbucthu" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_hienthingaythangnam" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_tinhchuvivadientichhinhtron" vcs="Git" />
@@ -26,6 +27,8 @@
     <mapping directory="$PROJECT_DIR$/DOM_baitap_Kiemtrasochan" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DOM_baitap_Ungdungmaytinh" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Ham_baitap_quanlysinhvien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lopvadoituong_baitap_AdamvaEva" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lopvadoituong_baitap_congtacvabongden" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lopvadoituong_thuchanh_mophongdenpin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lopvadoituong_thuchanh_taolopDate" vcs="Git" />
   </component>
