@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>Từ điển</h2>
+<label>
+    <input type="text" name="" id="inputLanguage" placeholder="Nhập từ cần dịch">
+    <button onclick="translate();">Dịch Anh Việt</button>
+    <hr>
+    <div id="result">
+
+    </div>
+</label>
+</body>
+<script>
+    function translate() {
+        let dic1 = ['hello', 'goodbye', 'thank you'];
+        let dic2 = ['xin chào', 'tạm biệt', 'cảm ơn'];
+        t = inputLanguage.toLowerCase()
+        console.log('inputLanguage=====', t)
+        for (let i = 0; i < dic1.length; i++) {
+
+            if (t == dic1[i]) {
+                document.getElementById("result").innerHTML =
+                    `   <h3> Nghĩa của từ đó là :</h3>
+                    <div id="result"> dic2[i] </div>
+
+                `
+                break;
+            }
+            if (t != dic1[i] && i == 2) {
+                document.getElementById("result").innerHTML = `<div id="result">Từ đó không có trong từ điển</div>`
+
+            }
+        }
+    }
+
+    // let ObjLanguages = {
+    //     hello: "Xin chào",
+    //     play: "Chơi",
+    //     football: "Bóng đá",
+    //     house: 'Ngôi nhà',
+    //     music: "Âm nhạc",
+    //
+    // }
+    //
+    // function translateEV() {
+    //     let txtLang = document.getElementById("inputLanguage").value;
+    //     if(txtLang) {
+    //         for(let lang in ObjLanguages) {
+    //             if(lang.toLowerCase() == txtLang.toLowerCase()) {
+    //                 let resultEnd = ObjLanguages[lang];
+    //                 document.getElementById("result"). innerHTML =
+    //                     `   <h3> Nghĩa của từ đó là :</h3>
+    //                 <div id="result"> ${resultEnd} </div>
+    //
+    //             `
+    //                 break;
+    //             }else {
+    //                 document.getElementById("result"). innerHTML = `<div id="result">Từ đó không có trong từ điển</div>`
+    //             }
+    //         }
+    //     }
+    // }
+
+    // const arrayEng = [
+    //     'hello', 'play', 'football', 'house', 'music'
+    // ];
+    //
+    // const arrayVie = [
+    //     'Xin chào bạn', 'Chơi game', 'Bóng đá hay', 'Ngôi nhà đẹp', 'Âm nhạc là music'
+    // ];
+    //
+    // function translateEA() {
+    //     let txtLang = document.getElementById("inputLanguage").value;
+    //     if(txtLang) {
+    //         for(let index in arrayEng) {
+    //             if(arrayEng[index].toUpperCase() == txtLang.toUpperCase()) {
+    //                 let resultEnd = arrayVie[index];
+    //                 document.getElementById("result"). innerHTML =
+    //                     `   <h3> Nghĩa của từ đó là :</h3>
+    //                 <div id="result"> ${resultEnd} </div>
+    //
+    //             `
+    //                 break;
+    //             }else {
+    //                 document.getElementById("result"). innerHTML = `<div id="result">Từ đó không có trong từ điển</div>`
+    //             }
+    //         }
+    //     }
+    // }
+</script>
+</html>

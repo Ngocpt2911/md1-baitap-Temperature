@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="celsius">
+<button onclick="temperature()">Result</button>
+</body>
+</html>
+<script>
+    class Temperature {
+        constructor(celsius) {
+            this.celsius = celsius;
+            if (celsius < -273) {
+                this.celsius = -273;
+            }
+        }
+
+        getFahrenheit() {
+            return this.celsius * 9 / 5 + 32;
+        }
+
+        getKelvin() {
+            return this.celsius + 273.15;
+        }
+    }
+
+
+    function temperature() {
+        let celsius = document.getElementById('celsius').value;
+        let celsiusOBJ = new Temperature(celsius);
+        let F = celsiusOBJ.getFahrenheit();
+        document.write('F = '+F+'<br>')
+        let K = celsiusOBJ.getKelvin();
+        document.write('K = '+K)
+    }
+
+
+</script>
