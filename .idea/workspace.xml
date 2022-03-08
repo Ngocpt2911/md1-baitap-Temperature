@@ -2,28 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46078b66-e56c-4fc3-861b-d9e66aff5d00" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LopPF2112.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_tinhchuvivadientichhinhtron" beforeDir="false" afterPath="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_tinhchuvivadientichhinhtron" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_tinhchuvivadientichhinhtron/tinhchuvivadientichhinhtron.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_tinhchuvivadientichhinhtron/tinhchuvivadientichhinhtron.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh1_nhungJavascript-ex2" beforeDir="false" afterPath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh1_nhungJavascript-ex2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh1_nhungJavascript-ex2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh1_nhungJavascript-ex2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh3_sudungtoantu" beforeDir="false" afterPath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh3_sudungtoantu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh3_sudungtoantu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh3_sudungtoantu/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cachtao1trangweb_baitap2_formdangky_v.1" beforeDir="false" afterPath="$PROJECT_DIR$/Cachtao1trangweb_baitap2_formdangky_v.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cachtao1trangweb_baitap2_formdangky_v.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cachtao1trangweb_baitap2_formdangky_v.1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_sinhbangcuuchuong" beforeDir="false" afterPath="$PROJECT_DIR$/Cautruclap_baitap_sinhbangcuuchuong" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_sinhbangcuuchuong/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cautruclap_baitap_sinhbangcuuchuong/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM_baitap_Kiemtrasochan" beforeDir="false" afterPath="$PROJECT_DIR$/DOM_baitap_Kiemtrasochan" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM_baitap_Kiemtrasochan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM_baitap_Kiemtrasochan/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM_baitap_Ungdungmaytinh" beforeDir="false" afterPath="$PROJECT_DIR$/DOM_baitap_Ungdungmaytinh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM_baitap_Ungdungmaytinh/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM_baitap_Ungdungmaytinh/.idea/Cachtao1trangweb_thuchanh1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM_baitap_Ungdungmaytinh/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DOM_baitap_Ungdungmaytinh/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM_baitap_Ungdungmaytinh/thuchanh_taoformcoban_simpleform.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_Chuongtrinhinnoidungbucthu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_hienthingaythangnam" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_tinhchuvivadientichhinhtron" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_tinhlaisuatnganhang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh1_nhungJavascript-ex1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh1_nhungJavascript-ex2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh1_nhungJavascript-ex3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh2_khaibaovasudungbien" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bienkieudulieuvatoantu_thuchanh3_sudungtoantu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cachtao1trangweb_baitap1_list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cachtao1trangweb_baitap2_form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cachtao1trangweb_baitap2_formdangky_v.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cachtao1trangweb_thuchanh3_form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautrucdieukien_baitap_tinhdiemkhoiD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautrucdieukien_baitap_tracuugiahoaqua/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautrucdieukien_baitap_tracuugiahoaqua/.idea/Cautrucdieukien_baitap_tracuugiahoaqua.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautrucdieukien_baitap_tracuugiahoaqua/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautrucdieukien_baitap_tracuugiahoaqua/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautrucdieukien_baitap_tracuugiahoaqua/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_Fibonacci/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_Fibonacci/.idea/Cautruclap_baitap_Fibonacci.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_Fibonacci/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_Fibonacci/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_gamedoanso" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_indayFibonacci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_luyentapvonglap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_luyentapvonglap/.idea/Cautruclap_baitap_demsotu1den100.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_luyentapvonglap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_luyentapvonglap/Bai1_demtu1den100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_luyentapvonglap/Bai5_tinhtongcua20sodayfibonacci/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_luyentapvonglap/Bai5_tinhtongcua20sodayfibonacci/.idea/Bai5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_luyentapvonglap/Bai5_tinhtongcua20sodayfibonacci/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_luyentapvonglap/Bai5_tinhtongcua20sodayfibonacci/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_sinhbangcuuchuong" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_sodaonguoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_baitap_vetamgiac1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_thuchanh_vonglaplongnhau" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cautruclap_thuchanh_vungoimora" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOM_baitap_Kiemtrasochan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOM_baitap_Ungdungmaytinh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ham_baitap_quanlysinhvien" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lopvadoituong_baitap_AdamvaEva" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lopvadoituong_baitap_congtacvabongden" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lopvadoituong_baitap_xaydunglophinhchunhat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lopvadoituong_baitap_xaydunglophinhchunhat/.idea/Lopvadoituong_baitap_xaydunglophinhchunhat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lopvadoituong_baitap_xaydunglophinhchunhat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lopvadoituong_baitap_xaydunglophinhchunhat/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lopvadoituong_thuchanh_mophongdenpin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lopvadoituong_thuchanh_taolopDate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mang_baitap_tudien/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mang_baitap_tudien/.idea/Mang_baitap_tudien.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mang_baitap_tudien/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mang_baitap_tudien/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +71,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Bienkieudulieuvatoantu_baitap_Chuongtrinhinnoidungbucthu" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,7 +87,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lopvadoituong_baitap_Temperature" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -67,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646144290853</updated>
       <workItem from="1646144292122" duration="4555000" />
+      <workItem from="1646750216238" duration="59000" />
     </task>
     <servers />
   </component>
